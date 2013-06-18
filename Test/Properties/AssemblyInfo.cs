@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Dialogue Partner Toolkit Client Library")]
+[assembly: AssemblyTitle("Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Dialogue Communications Ltd.")]
-[assembly: AssemblyProduct("Dialogue Partner Toolkit Client Library")]
-[assembly: AssemblyCopyright("Copyright ©  2011 Dialogue Communications Ltd.")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Test")]
+[assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a32e947d-1ad7-4d90-bc3d-07bf9d0f77db")]
+[assembly: Guid("5ab01261-f7b4-4bfd-a328-2af1a2f60cdf")]
 
 // Version information for an assembly consists of the following four values:
 //
